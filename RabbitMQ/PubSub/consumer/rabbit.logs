@@ -1,0 +1,19 @@
+
+> consumer@1.0.0 start
+> node src/index.js
+
+ [*] Waiting for messages in amq.gen-mWQjDxASfzK3iwx5XnSaZg. To exit press CTRL+C
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello to the world
+ [x] Hello World!
+ [x] Hello World!
+ [x] Hello World!
